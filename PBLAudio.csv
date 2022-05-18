@@ -1,0 +1,51 @@
+name,emotions,type,size (KB),target,path
+bojack,bojack_afraid,WAV File,2441,1,/Users/somaaymaheshwari/Downloads/dataset/bojack_afraid.wav
+bojack,bojack_angry,WAV File,1849,1,/Users/somaaymaheshwari/Downloads/dataset/bojack_angry.wav
+bojack,bojack_calm (2),WAV File,2992,1,/Users/somaaymaheshwari/Downloads/dataset/bojack_calm2.wav
+bojack,bojack_calm,WAV File,1099,1,/Users/somaaymaheshwari/Downloads/dataset/bojack_calm.wav
+bojack,bojack_confused,WAV File,1563,1,/Users/somaaymaheshwari/Downloads/dataset/bojack_confused.wav
+bojack,bojack_furious,WAV File,3099,1,/Users/somaaymaheshwari/Downloads/dataset/bojack_furious.wav
+bojack,bojack_happy,WAV File,1441,1,/Users/somaaymaheshwari/Downloads/dataset/bojack_happy.wav
+bojack,bojack_sad (2),WAV File,1305,1,/Users/somaaymaheshwari/Downloads/dataset/bojack_sad2.wav
+bojack,bojack_sad,WAV File,2224,1,/Users/somaaymaheshwari/Downloads/dataset/bojack_sad.wav
+bojack,bojack_tired,WAV File,2852,1,/Users/somaaymaheshwari/Downloads/dataset/bojack_tired.wav
+rick,rick_angry (2),WAV File,2757,1,/Users/somaaymaheshwari/Downloads/dataset/rick_angry2.wav
+rick,rick_angry,WAV File,1588,1,/Users/somaaymaheshwari/Downloads/dataset/rick_angry.wav
+rick,rick_calm (2),WAV File,1838,1,/Users/somaaymaheshwari/Downloads/dataset/rick_calm2.wav
+rick,rick_calm,WAV File,1706,1,/Users/somaaymaheshwari/Downloads/dataset/rick_calm.wav
+rick,rick_excited (2),WAV File,2570,1,/Users/somaaymaheshwari/Downloads/dataset/rick_excited2.wav
+rick,rick_excited,WAV File,3338,1,/Users/somaaymaheshwari/Downloads/dataset/rick_excited.wav
+rick,rick_furious,WAV File,1625,1,/Users/somaaymaheshwari/Downloads/dataset/rick_furious.wav
+rick,rick_mad,WAV File,2044,1,/Users/somaaymaheshwari/Downloads/dataset/rick_mad.wav
+rick,rick_sad,WAV File,2209,1,/Users/somaaymaheshwari/Downloads/dataset/rick_sad.wav
+rick,rick_tired,WAV File,2235,1,/Users/somaaymaheshwari/Downloads/dataset/rick_tired.wav
+otis,otis_angry (2),WAV File,1483,1,/Users/somaaymaheshwari/Downloads/dataset/otis_angry2.wav
+otis,otis_angry,WAV File,1953,1,/Users/somaaymaheshwari/Downloads/dataset/otis_angry.wav
+otis,otis_calm (2),WAV File,5044,1,/Users/somaaymaheshwari/Downloads/dataset/otis_calm2.wav
+otis,otis_calm,WAV File,2238,1,/Users/somaaymaheshwari/Downloads/dataset/otis_calm.wav
+otis,otis_furious,WAV File,2994,1,/Users/somaaymaheshwari/Downloads/dataset/otis_furious.wav
+otis,otis_happy,WAV File,4476,1,/Users/somaaymaheshwari/Downloads/dataset/otis_happy.wav
+otis,otis_inspired,WAV File,2233,1,/Users/somaaymaheshwari/Downloads/dataset/otis_inspired.wav
+otis,otis_sad (2),WAV File,3440,1,/Users/somaaymaheshwari/Downloads/dataset/otis_sad2.wav
+otis,otis_sad,WAV File,3237,1,/Users/somaaymaheshwari/Downloads/dataset/otis_sad.wav
+otis,otis_scared,WAV File,2413,1,/Users/somaaymaheshwari/Downloads/dataset/otis_scared.wav
+howard,howard_angry (2),WAV File,2617,0,/Users/somaaymaheshwari/Downloads/dataset/howard_angry2.wav
+howard,howard_angry,WAV File,1485,0,/Users/somaaymaheshwari/Downloads/dataset/howard_angry.wav
+howard,howard_calm,WAV File,3000,0,/Users/somaaymaheshwari/Downloads/dataset/howard_calm.wav
+howard,howard_excited (2),WAV File,4051,0,/Users/somaaymaheshwari/Downloads/dataset/howard_excited2.wav
+howard,howard_excited,WAV File,2327,0,/Users/somaaymaheshwari/Downloads/dataset/howard_excited.wav
+howard,howard_furious,WAV File,2687,0,/Users/somaaymaheshwari/Downloads/dataset/howard_furious.wav
+howard,howard_happy (2),WAV File,1574,0,/Users/somaaymaheshwari/Downloads/dataset/howard_happy2.wav
+howard,howard_happy,WAV File,3132,0,/Users/somaaymaheshwari/Downloads/dataset/howard_happy.wav
+howard,howard_sad (2),WAV File,3227,0,/Users/somaaymaheshwari/Downloads/dataset/howard_sad2.wav
+howard,howard_sad,WAV File,2191,0,/Users/somaaymaheshwari/Downloads/dataset/howard_sad.wav
+varun,varun_angry (2),WAV File,4120,0,/Users/somaaymaheshwari/Downloads/dataset/varun_angry2.wav
+varun,varun_angry ,WAV File,3268,0,/Users/somaaymaheshwari/Downloads/dataset/varun_angry.wav
+varun,varun_calm (2) ,WAV File,2434,0,/Users/somaaymaheshwari/Downloads/dataset/varun_calm2.wav
+varun,varun_calm,WAV File,4451,0,/Users/somaaymaheshwari/Downloads/dataset/varun_calm.wav
+varun,varun_confused ,WAV File,1570,0,/Users/somaaymaheshwari/Downloads/dataset/varun_confused.wav
+varun,varun_furious (2) ,WAV File,2029,0,/Users/somaaymaheshwari/Downloads/dataset/varun_furious2.wav
+varun,varun_furious ,WAV File,3202,0,/Users/somaaymaheshwari/Downloads/dataset/varun_furious.wav
+varun,varun_happy ,WAV File,3518,0,/Users/somaaymaheshwari/Downloads/dataset/varun_happy.wav
+varun,varun_sad ,WAV File,2393,0,/Users/somaaymaheshwari/Downloads/dataset/varun_sad.wav
+varun,varun_scared ,WAV File,3984,0,/Users/somaaymaheshwari/Downloads/dataset/varun_scared.wav
